@@ -1,0 +1,6 @@
+try:
+  valor = int(input("Digite um número.\nResposta:"))
+  print("Valor computado.")
+except:
+  valor = int(input("Entrada inválida. Digite um número.\nResposta:"))
+  print("Valor computado.")
