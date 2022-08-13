@@ -4,3 +4,5 @@ try:
 except:
   valor = int(input("Entrada inválida. Digite um número.\nResposta:"))
   print("Valor computado.")
+
+#Foi solicitada uma entrada númerica, caso outro valor seja inserido, surge uma mensagem solicitando que o valor cprreto seja informado.
